@@ -35,4 +35,4 @@ This links to the website of my favorite game.
 ![image](/screenshots/1.png)
 
 ## Click to go Back to the Top
-[Danielle's User Page](danielles-user-page)
+[Back to Top](#danielles-user-page)
