@@ -1,4 +1,4 @@
-## Danielle's User Page
+# Danielle's User Page
 
 Hi! I'm **Danielle Sylliaasen** and I am a second-year computer science major at **UCSD**! 
 
