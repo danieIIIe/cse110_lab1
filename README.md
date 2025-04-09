@@ -1,2 +1,2 @@
 # cse110_lab1
-Danielle's User Page 
+My favorite language is Python because of its simplicity.
