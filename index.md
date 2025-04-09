@@ -31,5 +31,8 @@ print("Hello! I'm Danielle!")
 This links to the website of my favorite game.
 [VALORANT](https://playvalorant.com/en-us/)
 
+## A Picture from my Lab 1 Assignment
+![image](/screenshots/1.png)
+
 ## Click to go Back to the Top
 [Danielle's User Page](danielle's-user-page)
